@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Принять">Принять</string>
+    <string name="Отказаться">Отказаться</string>
+    <string name="terms"></string>
+    <string name="Refresh">Повторить</string>
+    <string name="Check">Проверьте подключение к сети</string>
+    <string name="facebook_ap_id">1172868699946831</string>
+</resources>
+
